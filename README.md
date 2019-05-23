@@ -18,3 +18,6 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+こちらの記事のコードです。
+https://qiita.com/s-kamada/items/dbe1bef7be3a466cef8f
